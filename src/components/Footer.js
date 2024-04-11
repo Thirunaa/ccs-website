@@ -22,7 +22,7 @@ function Footer() {
 
       <Box style={{ display: "flex", justifyContent: "center" }}>
         <Typography style={{ marginRight: "15px" }} variant="body2" color="textSecondary">
-          <Link style={{ textDecoration: "none", color: "inherit" }} to="/home">
+          <Link style={{ textDecoration: "none", color: "inherit" }} to="/">
             Home
           </Link>
         </Typography>

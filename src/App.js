@@ -22,7 +22,7 @@ function App() {
         </div>
         <div style={{ marginTop: "50px" }}>
           <Routes>
-            <Route path="/home" element={<Home />} />
+            <Route path="/" element={<Home />} />
             <Route path="/ourservices" element={<OurServices />} />
             <Route path="/careers" element={<Careers />} />
             <Route path="/contactus" element={<ContactUs />} />

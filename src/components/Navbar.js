@@ -13,7 +13,7 @@ function Navbar() {
         </Typography>
 
         <Typography variant="h6" style={{ flexGrow: 1 }}></Typography>
-        <Link to="/home">
+        <Link to="/">
           <Button style={{ color: "white" }}>Homepage</Button>
         </Link>
         <Link to="/contactus">
